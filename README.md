@@ -559,3 +559,11 @@ MIT License - Use freely for learning and projects!
 ---
 
 **Remember:** Every time ChatGPT makes a math mistake or counts letters wrong, you now know who to blame—*the tokenizer*! 🎯
+
+---
+
+## Case study
+
+The full write-up of MinBPE Tokenizer (problem, architecture, trade-offs and results) lives at **[kunjshah.in/projects/minbpe-tokenizer](https://kunjshah.in/projects/minbpe-tokenizer)**.
+
+Built by [Kunj Shah](https://kunjshah.in), AI engineer.
